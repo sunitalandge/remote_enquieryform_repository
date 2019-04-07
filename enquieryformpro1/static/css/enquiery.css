@@ -1,0 +1,27 @@
+table{
+
+    margin-left:20px;
+    margin-top: 20px;
+    width: 500px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: deeppink;
+
+}
+label{
+    font-size: 20px;
+    padding: 5px;
+
+}
+input[value]{
+    height:30px;
+    width: 80px;
+    margin-bottom: 10px;
+
+input[name]{
+    width: 250px;
+}
+h2{
+    text-align: left;
+    margin-left: 50px;
+}
